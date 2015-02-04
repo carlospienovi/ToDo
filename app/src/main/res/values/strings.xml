@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ToDo</string>
+    <string name="action_settings">Settings</string>
+    <string name="signal_data_string" formatted="false">Signal received from star %s with probability of life: %s</string>
+    <string name="probability_none">None</string>
+    <string name="probability_minimal">Minimal</string>
+    <string name="probability_low">Low</string>
+    <string name="probability_some">Some</string>
+    <string name="probability_got_it">Significant</string>
+    <string name="action_add">Add star</string>
+    <string name="nothing_text">You havent added anything yet</string>
+    <string name="checkbox_done">Done</string>
+    <string name="title_activity_create_task">CreateTaskActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="new_task_hint">New task title</string>
+    <string name="button_new_task_done">Done</string>
+
+</resources>
