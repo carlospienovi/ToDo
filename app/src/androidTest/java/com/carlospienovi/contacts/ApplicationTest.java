@@ -1,4 +1,4 @@
-package com.carlospienovi.todo;
+package com.carlospienovi.contacts;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

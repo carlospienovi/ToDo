@@ -1,4 +1,4 @@
-package com.carlospienovi.todo;
+package com.carlospienovi.contacts;
 
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
@@ -12,7 +12,7 @@ public class MainActivity extends ActionBarActivity {
         setContentView(R.layout.activity_main);
         if (savedInstanceState == null) {
             getSupportFragmentManager().beginTransaction()
-                    .add(R.id.container, new TasksListFragment())
+                    .add(R.id.container, new ContactsListFragment())
                     .commit();
         }
     }
